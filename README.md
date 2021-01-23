@@ -30,7 +30,7 @@ I'm graduated in Software Engineering from the University of Mindelo!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)
 
-### Some of the technologies I have worked with
+### Some of the technologies I work with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
