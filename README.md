@@ -1,9 +1,6 @@
 ## Hi there 👋 
 ## This is Frederico!
 
-<img src="https://avatars.githubusercontent.com/u/29602236?s=460&u=bd867a87dd1e76c6c100923132c76e674250683d&v=4" alt="Fred"
-	title="Fred pic" width="250" height="250" border-radius= 50%/>
-
 Welcome to my Github page! 
 I'm graduated in Software Engineering from the University of Mindelo! 
 
