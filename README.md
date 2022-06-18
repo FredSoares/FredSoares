@@ -2,7 +2,7 @@
 ## This is Frederico!
 
 Welcome to my Github page! 
-I'm graduated in Software Engineering from the University of Mindelo! 
+I'm a Software Engineering! 
 
 ## About me ✍🏽 :
 
