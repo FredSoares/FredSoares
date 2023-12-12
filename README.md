@@ -58,7 +58,4 @@ I'm a Software Engineering!
   <a href="https://www.linkedin.com/in/fred-soares/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_fred_dev/" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-instagram-e60513?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
 </p>
