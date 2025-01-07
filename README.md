@@ -1,56 +1,46 @@
-## Hi there 👋 
-## This is Frederico!
+## 👋 Hi there, I'm Frederico Soares
 
-Welcome to my Github page! 
-I'm a Software Engineering! 
+Welcome to my GitHub! I'm a passionate **Software Engineer**, **Educator**, and **Entrepreneur** with over a decade of experience in building scalable web applications, cloud solutions, and educating the next generation of developers. 
 
-## About me ✍🏽 :
+## 👨‍💻 What I Do  
+- **Software Development**  
+  - Co-founder of [Chuva](https://chuva.io), where I specialize in delivering innovative solutions tailored to diverse client needs.  
+  - Proficient in **Python**, **JavaScript**, **TypeScript**, **Node.js**, **ReactNativo**, **ReactJS**, **Next.js**, and **AWS Cloud Computing**.  
+  - Focus on creating efficient and scalable SaaS products and APIs.
 
-- 🧑🏽‍💻 I love coding 
-- 📦 I have Solid fundamentals in object-oriented design, data structures, algorithms and problem solving. 
-- 💻 I have experience with web, mobile and backend development
-- 📝 I have Ability to understand business requirements and translate them into technical requirements
-- 🖥 I’m currently working at <a href="https://chuva.io" alt="GitHub">Chuva.io</a>
-- 🌱 I’m currently learning ML
-- 🧠 Mindset **"no amount of knowledge is enough knowledge"**
+- **Teaching & Mentorship**  
+  - Teacher at [University of Mindelo](https://um.edu.cv/), sharing expertise in **Concurrent Programming with Java**, **Functional Programming with Haskell** and **Mobile Development**.  
+  - Passionate about simplifying complex concepts for students and professionals alike.
+ 
+## 🛠️ Tech Stack
+### **Languages**  
+- GO, JavaScript, TypeScript, PHP, Python, Java, Kotlin, Swift, Haskell  
 
-### Languages I use
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=JAVA)
-![Swift](https://img.shields.io/badge/-Swift-222222?style=flat&logo=swift)
-![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)
+### **Frameworks & Libraries**  
+-  Nest.js, Express, Laravel
+-  VueJS, NuxtJS, Pinia, ReactJS, React Native, Redux, Next.js, MaterialUI, Tailwind CSS, Styled-Components, Storybook 
 
-### Database I use
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=0769AD)
-![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)
+### **Testing Tools**
+- Jest, Cypress
 
-### Some of the technologies I work with
+### **Cloud & DevOps**
+- Jira
+- Git
+- NPM
+- App Center
+- AWS (DynamoDB, Lambda, S3, EC2, ECS, ECR, CloudFront, Route 53, API Gateway, Cognito, SNS, SQS, CloudFormation)  
+- Docker, CI/CD with Bitbucket Pipelines and GitHub Actions
+- Terraform
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-222222?style=flat&logo=bitbucket&logoColor=0769AD)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
-![Socket.io](https://img.shields.io/badge/-Socket-222222?style=flat&logo=socket.io)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux)
-![StyledComponents](https://img.shields.io/badge/-StyledComponents-222222?style=flat&logo=styled-components)
-![Material_UI](https://img.shields.io/badge/-Material_UI-222222?style=flat&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap)
-![Jest](https://img.shields.io/badge/-Jest-222222?style=flat&logo=Jest)
-![Swiftui](https://img.shields.io/badge/-SwiftUI-222222?style=flat&logo=swift&logoColor=F05032)
-![Firebase](https://img.shields.io/badge/-FireBase-222222?style=flat&logo=firebase)
-![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=Figma)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-222222?style=flat-square&logo=Visual-Studio-Code)
-![Xcode](https://img.shields.io/badge/Xcode-222222?style=flat-square&logo=Xcode)
+### **Databases**  
+- DynamoDB, MongoDB, PostgreSQL, Redis, Sequelize ORM, Prisma ORM  
 
-### ☕ Get in touch
+## 🌱 Currently Learning
+- **LLMs (Large Language Models)**: Exploring the potential of AI for building intelligent applications.
+- **Go (Golang)**: Expanding my backend development expertise.
+- Enhancing strategies for **Google AdSense monetization** for blogs and SaaS platforms.
+
+### 📫 Get in touch
 <p>
   <a href="https://github.com/FredSoares" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
