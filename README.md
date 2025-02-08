@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **Software Engineer**, **Educator**, and 
 
 ## 👨‍💻 What I Do  
 - **Software Development**  
-  - Co-founder of [Chuva](https://chuva.io), where I specialize in delivering innovative solutions tailored to diverse client needs.  
+  - As a Software Engineer I specialize in delivering innovative solutions tailored to diverse client needs.  
   - Proficient in **Python**, **JavaScript**, **TypeScript**, **Node.js**, **ReactNativo**, **ReactJS**, **Next.js**, and **AWS Cloud Computing**.  
   - Focus on creating efficient and scalable SaaS products and APIs.
 
